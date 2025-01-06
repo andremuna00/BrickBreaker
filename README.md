@@ -107,6 +107,6 @@ java Main
 This project is open source and available under the MIT License.
 ## ✨ Acknowledgments
 
-Our high school CS teachers for guidance
-Original Brick Breaker game creators for inspiration
-Fellow students for testing and feedback
+- Our high school CS teachers for guidance
+- Original Brick Breaker game creators for inspiration
+- Fellow students for testing and feedback
